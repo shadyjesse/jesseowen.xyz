@@ -1,6 +1,14 @@
 ---
 title: "Projects"
 ---
+
+## seald
+
+Android app for tracking **sealed** trading-card-game products — barcode scan, on-device collection, catalog search, and market price snapshots. Guest mode works without an account.
+
+Privacy policy (for Google Play): [seald Privacy Policy](/seald/privacy/)
+
+
 ## Android Permission Attestator
 
 For my final year capstone project I collaborated in a team to build a Kotlin-based Android application.
