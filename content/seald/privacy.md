@@ -3,11 +3,12 @@ title: "seald — Privacy Policy"
 description: "Privacy policy for the seald Android app and web app."
 ---
 
-**Last updated:** 1 October 2026 (AEST)
+**Last updated:** 3 October 2026 (AEST)
 
 **App:** seald  
 **Developer / operator:** Jesse Owen  
-**Contact:** [jesse@jesseowen.xyz](mailto:jesse@jesseowen.xyz)
+**Contact:** [jesse@jesseowen.xyz](mailto:jesse@jesseowen.xyz)  
+**Delete your account:** [Delete account](/seald/delete-account/)
 
 This policy describes how seald handles information in the Android app and the seald web app. You can use seald as a guest with a local collection. Google Sign-In is optional. Signing in enables free cloud sync.
 
@@ -79,7 +80,7 @@ Server-side catalog ingest uses public/partner sources such as **TCGCSV**. That 
 - **Exports you create** (for example CSV): under your control.
 - **Cloud:** while your account is active. Synced collection data stays so you can restore it on another device or on the web.
 
-Signing out ends the seald session on that device. It does not, by itself, delete collection data already stored for your account. To ask us to delete cloud data tied to your account, email [jesse@jesseowen.xyz](mailto:jesse@jesseowen.xyz).
+Signing out ends the seald session on that device. It does not, by itself, delete collection data already stored for your account. To delete the Google-linked seald account and the cloud collection synced to it, use the [delete account](/seald/delete-account/) page.
 
 ## 6. Children
 
@@ -92,7 +93,7 @@ seald is aimed at adults managing sealed TCG collections. It is not directed at 
 - Sign in with Google — optional. This creates a seald session and enables free cloud sync, including Collection and Insights on the web when your collection is synced.
 - Sign out — ends the session on that device. Cloud data already stored for the account remains until you ask us to delete it.
 - Clear app storage or uninstall to remove local data.
-- Email [jesse@jesseowen.xyz](mailto:jesse@jesseowen.xyz) to request deletion of cloud account data. There is no separate self-serve deletion page.
+- Delete your account from the [delete account](/seald/delete-account/) page. Email [jesse@jesseowen.xyz](mailto:jesse@jesseowen.xyz) from the Google account you used to sign in, with the subject "Delete my seald account".
 
 ## 8. Changes
 
@@ -100,4 +101,4 @@ We will update this policy when what seald collects or shares changes. Material 
 
 ## 9. Contact
 
-Questions about privacy, or requests to delete cloud data: [jesse@jesseowen.xyz](mailto:jesse@jesseowen.xyz)
+Questions about privacy: [jesse@jesseowen.xyz](mailto:jesse@jesseowen.xyz). To delete your account: [Delete account](/seald/delete-account/).
