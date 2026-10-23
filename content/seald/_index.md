@@ -16,6 +16,6 @@ Guest mode works without an account.
 [![Get it on Google Play](/images/google-play-download.svg)](https://play.google.com/store/apps/details?id=xyz.seald)
 
 - [Open seald on the web](https://seald.xyz)
-- [Privacy Policy](/seald/privacy/)
-- [Delete your account](/seald/delete-account/)
+- [Privacy Policy](https://seald.xyz/seald/privacy)
+- [Delete your account](https://seald.xyz/seald/delete-account)
 - Contact: [jesse@jesseowen.xyz](mailto:jesse@jesseowen.xyz)

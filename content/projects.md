@@ -9,7 +9,7 @@ Android app for tracking **sealed** trading-card-game products: barcode scan, an
 [![Get it on Google Play](/images/google-play-download.svg)](https://play.google.com/store/apps/details?id=xyz.seald)
 
 - [seald overview](/seald/)
-- [Privacy Policy](/seald/privacy/)
+- [Privacy Policy](https://seald.xyz/seald/privacy)
 
 
 ## Android Permission Attestator

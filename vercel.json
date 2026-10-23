@@ -1,0 +1,8 @@
+{
+  "redirects": [
+    { "source": "/seald/privacy", "destination": "https://seald.xyz/seald/privacy", "permanent": true },
+    { "source": "/seald/privacy/", "destination": "https://seald.xyz/seald/privacy", "permanent": true },
+    { "source": "/seald/delete-account", "destination": "https://seald.xyz/seald/delete-account", "permanent": true },
+    { "source": "/seald/delete-account/", "destination": "https://seald.xyz/seald/delete-account", "permanent": true }
+  ]
+}
