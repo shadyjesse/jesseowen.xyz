@@ -4,7 +4,9 @@ title: "Projects"
 
 ## seald
 
-Android app for tracking **sealed** trading-card-game products — barcode scan, on-device collection, catalog search, and market price snapshots. Guest mode works without an account. Early sideload testing; Play listing after verification.
+Android app for tracking **sealed** trading-card-game products: barcode scan, an offline on-device collection, catalog search and market price snapshots. Optional Google Sign-In gives you free cloud sync and a web view at [seald.xyz](https://seald.xyz). Guest mode works without an account.
+
+[![Get it on Google Play](/images/google-play-download.svg)](https://play.google.com/store/apps/details?id=xyz.seald)
 
 - [seald overview](/seald/)
 - [Privacy Policy](/seald/privacy/)
